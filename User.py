@@ -11,8 +11,6 @@ class User:
         self.email = "benzuke34@gmail.com"
         self.password = "pass"
         self.payment_info = "1234567890"
-        self.budget = 0
-        self.expenses = []
 
     '''
     Login to the users account.
